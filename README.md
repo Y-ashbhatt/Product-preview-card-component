@@ -29,11 +29,11 @@ Users should be able to:
 
 Desktop
 
-![](./screenshot.jpg)
+![](./Screenshots/Desktop.png)
 
 Mobile
 
-![](
+![](./Screenshots/Mobile(Samsung%20Galaxy%20S20%20Ultra).png)
 
 
 ### Links
